@@ -7,7 +7,11 @@ Play with yield and smart lists. Learn more about implimentation
 Asyncio & 3.8
 
 ### GOlang
+goroutines
+Understand channels
 
+### Snap
+A package deployment system for linux. Build an app and deploy it using snap.
 
-###Snap
-A package deployment system for linux.
+### C++
+Spend more time with the language, understand pointers better
